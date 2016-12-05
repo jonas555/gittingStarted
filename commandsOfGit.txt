@@ -1,0 +1,7 @@
+git status - the latest status in git folder
+
+git touch - creates the new file
+
+git commit -m "Message stored with commit"
+
+git add fileName - adding the file in the branch
