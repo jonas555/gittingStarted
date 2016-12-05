@@ -5,3 +5,7 @@ git touch - creates the new file
 git commit -m "Message stored with commit"
 
 git add fileName - adding the file in the branch
+
+git log - info about user and other
+
+git add . - adds all files
